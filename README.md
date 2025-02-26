@@ -115,7 +115,6 @@ Here is the project demo: [Click here](https://blogr-website-theta.vercel.app/)
 
 ### Desktop View
 ![Project Demo](design/image1.png)
-![Project Demo](design/image2.png)
 ![Project Demo](design/image3.png)
 ![Project Demo](design/image4.png)
 ![Project Demo](design/image5.png)
