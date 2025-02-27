@@ -20,6 +20,9 @@ a{
 }
 
 /*Universal CSS*/
+html{
+    -webkit-tap-highlight-color: transparent;
+}
 body{
     font-family: 'Overpass', sans-serif;
     line-height: 1.7;
